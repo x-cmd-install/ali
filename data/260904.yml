@@ -7,7 +7,7 @@ about:
   head: 200c159
   archived: false
   latestVersion: v0.8.0
-  collectedAt: 2026-09-04T19:31:46Z
+  collectedAt: 2026-09-04T21:02:08Z
 timeline:
   created: 2020-09-12
   lastCommit: 2026-01-19
@@ -82,6 +82,44 @@ total:
   openIssue: 24
   commit: 280
 ---
+path: /home/runner/.x-repo/github.com/nakabonne/ali
+collectedAt: 2026-09-04T21:02:09Z
+loc:
+  Go:
+    code: 3513
+    comments: 385
+    blanks: 424
+    files: 23
+  Json:
+    code: 44
+    comments: 0
+    blanks: 0
+    files: 2
+  Yaml:
+    code: 19
+    comments: 0
+    blanks: 1
+    files: 1
+  Makefile:
+    code: 9
+    comments: 0
+    blanks: 3
+    files: 1
+  Dockerfile:
+    code: 3
+    comments: 0
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 273
+    blanks: 128
+    files: 4
+total:
+  code: 3761
+  comments: 658
+  blanks: 557
+  files: 32
 ---
 date: "2026-08-24"
 repo:
