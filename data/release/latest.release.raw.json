@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3100376,
       "digest": "sha256:bd1fd8486da3333a5c994ff43a3f066edcfd922c678a29f5a9e02807177f4e64",
-      "download_count": 440,
+      "download_count": 441,
       "created_at": "2026-01-19T06:45:27Z",
       "updated_at": "2026-01-19T06:45:27Z",
       "browser_download_url": "https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_darwin_arm64.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 3215657,
       "digest": "sha256:6bd43212f032528dd0a6c6db00035432051d1566d7af8ef0ef1b91a0b041705c",
-      "download_count": 441,
+      "download_count": 443,
       "created_at": "2026-01-19T06:45:28Z",
       "updated_at": "2026-01-19T06:45:28Z",
       "browser_download_url": "https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_amd64.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 2966246,
       "digest": "sha256:a71bb89dcf1ceb7431327bb7f162c7ad30c675d0e5b4cae183e83fac276212f4",
-      "download_count": 33,
+      "download_count": 34,
       "created_at": "2026-01-19T06:45:26Z",
       "updated_at": "2026-01-19T06:45:26Z",
       "browser_download_url": "https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_arm64.tar.gz"
