@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.8.0"
   latestRelease: "v0.8.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T03:07:03Z
+  collectedAt: 2026-09-09T18:25:17Z
 timeline:
   created: 2020-09-12
   lastCommit: 2026-01-19
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-01-19
   lastPrerelease: 
 popularity:
-  star: 3939
+  star: 3938
   watcher: 36
   fork: 151
   release: 27
@@ -85,7 +85,7 @@ total:
   commit: 280
 ---
 path: /home/runner/.x-repo/github.com/nakabonne/ali
-collectedAt: 2026-09-09T03:07:05Z
+collectedAt: 2026-09-09T18:25:19Z
 loc:
   Go:
     code: 3513
