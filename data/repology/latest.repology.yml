@@ -1,0 +1,342 @@
+- repo: parabola
+  subrepo: extra
+  srcname: ali
+  binname: ali
+  visiblename: ali
+  version: 0.8.0
+  origversion: 0.8.0-1
+  status: newest
+  summary: Generate HTTP load and plot the results in real-time
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: ali
+  binname: ali-doc
+  visiblename: ali-doc
+  version: 0.8.0
+  origversion: 0.8.0-r5
+  status: newest
+  summary: Generate HTTP load and plot the results in real-time (documentation)
+  maintainers:
+    - wanghao03@loongson.cn
+  licenses:
+    - MIT
+- repo: alpine_3_17
+  subrepo: community
+  srcname: ali
+  binname: ali
+  visiblename: ali
+  version: 0.7.5
+  origversion: 0.7.5-r13
+  status: outdated
+  summary: Generate HTTP load and plot the results in real-time
+  maintainers:
+    - marvin@xsteadfastx.org
+  licenses:
+    - MIT
+- repo: alpine_3_18
+  subrepo: community
+  srcname: ali
+  binname: ali
+  visiblename: ali
+  version: 0.7.5
+  origversion: 0.7.5-r19
+  status: outdated
+  summary: Generate HTTP load and plot the results in real-time
+  maintainers:
+    - marvin@xsteadfastx.org
+  licenses:
+    - MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: ali
+  binname: ali
+  visiblename: ali
+  version: 0.7.5
+  origversion: 0.7.5-r22
+  status: outdated
+  summary: Generate HTTP load and plot the results in real-time
+  maintainers:
+    - marvin@xsteadfastx.org
+  licenses:
+    - MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: ali
+  binname: ali
+  visiblename: ali
+  version: 0.7.5
+  origversion: 0.7.5-r24
+  status: outdated
+  summary: Generate HTTP load and plot the results in real-time
+  maintainers:
+    - marvin@xsteadfastx.org
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: ali
+  binname: ali
+  visiblename: ali
+  version: 0.7.5
+  origversion: 0.7.5-r29
+  status: outdated
+  summary: Generate HTTP load and plot the results in real-time
+  maintainers:
+    - marvin@xsteadfastx.org
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: ali
+  binname: ali
+  visiblename: ali
+  version: 0.7.5
+  origversion: 0.7.5-r35
+  status: outdated
+  summary: Generate HTTP load and plot the results in real-time
+  maintainers:
+    - cielesti@protonmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: ali
+  binname: ali-doc
+  visiblename: ali-doc
+  version: 0.7.5
+  origversion: 0.7.5-r35
+  status: outdated
+  summary: Generate HTTP load and plot the results in real-time (documentation)
+  maintainers:
+    - cielesti@protonmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: ali
+  binname: ali
+  visiblename: ali
+  version: 0.7.5
+  origversion: 0.7.5-r40
+  status: outdated
+  summary: Generate HTTP load and plot the results in real-time
+  maintainers:
+    - cielesti@protonmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: ali
+  binname: ali-doc
+  visiblename: ali-doc
+  version: 0.7.5
+  origversion: 0.7.5-r40
+  status: outdated
+  summary: Generate HTTP load and plot the results in real-time (documentation)
+  maintainers:
+    - cielesti@protonmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: ali
+  binname: ali
+  visiblename: ali
+  version: 0.8.0
+  origversion: 0.8.0-r5
+  status: newest
+  summary: Generate HTTP load and plot the results in real-time
+  maintainers:
+    - wanghao03@loongson.cn
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: ali
+  binname: ali-doc
+  visiblename: ali-doc
+  version: 0.8.0
+  origversion: 0.8.0-r5
+  status: newest
+  summary: Generate HTTP load and plot the results in real-time (documentation)
+  maintainers:
+    - wanghao03@loongson.cn
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: ali
+  binname: ali
+  visiblename: ali
+  version: 0.8.0
+  origversion: 0.8.0-r5
+  status: newest
+  summary: Generate HTTP load and plot the results in real-time
+  maintainers:
+    - wanghao03@loongson.cn
+  licenses:
+    - MIT
+- repo: arch
+  subrepo: extra
+  srcname: ali
+  binname: ali
+  visiblename: ali
+  version: 0.8.0
+  origversion: 0.8.0-1
+  status: newest
+  summary: Generate HTTP load and plot the results in real-time
+  licenses:
+    - MIT
+- repo: aur
+  srcname: ali-git
+  binname: ali-git
+  visiblename: ali-git
+  version: 0.7.3.r0.g22d6aed
+  origversion: 0.7.3.r0.g22d6aed-1
+  status: rolling
+  summary: Generate HTTP load and plot the results in real-time (git)
+  maintainers:
+    - orhun@aur
+  licenses:
+    - MIT
+- repo: freebsd
+  srcname: benchmarks/ali
+  binname: ali
+  visiblename: benchmarks/ali
+  version: 0.8.0
+  origversion: 0.8.0_11
+  status: newest
+  summary: Load testing tool aimed to perform real-time analysis
+  maintainers:
+    - olgeni@freebsd.org
+  categories:
+    - benchmarks
+- repo: homebrew
+  srcname: ali
+  visiblename: ali
+  version: 0.8.0
+  origversion: null
+  status: newest
+  summary: Generate HTTP load and plot the results in real-time
+- repo: homebrew
+  srcname: ali
+  visiblename: ali
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Generate HTTP load and plot the results in real-time
+- repo: macports
+  srcname: www/ali
+  binname: ali
+  visiblename: ali
+  version: 0.8.0
+  origversion: null
+  status: newest
+  summary: Generate HTTP load and plot the results in real-time
+  maintainers:
+    - herbygillot@github
+  licenses:
+    - MIT
+  categories:
+    - www
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: ali
+  binname: ali
+  visiblename: ali
+  version: 0.8.0
+  origversion: 0.8.0-1
+  status: newest
+  summary: Generate HTTP load and plot the results in real-time
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: ali
+  binname: ali
+  visiblename: ali
+  version: 0.8.0
+  origversion: 0.8.0-1
+  status: newest
+  summary: Generate HTTP load and plot the results in real-time
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: ali
+  binname: ali
+  visiblename: ali
+  version: 0.8.0
+  origversion: 0.8.0-1
+  status: newest
+  summary: Generate HTTP load and plot the results in real-time
+  licenses:
+    - MIT
+- repo: nix_stable_24_05
+  srcname: ali
+  visiblename: ali
+  version: 0.7.5
+  origversion: null
+  status: outdated
+  summary: Generate HTTP load and plot the results in real-time
+  maintainers:
+    - farcaller@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: ali
+  visiblename: ali
+  version: 0.7.5
+  origversion: null
+  status: outdated
+  summary: Generate HTTP load and plot the results in real-time
+  maintainers:
+    - farcaller@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: ali
+  visiblename: ali
+  version: 0.7.5
+  origversion: null
+  status: outdated
+  summary: Generate HTTP load and plot the results in real-time
+  maintainers:
+    - farcaller@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: ali
+  visiblename: ali
+  version: 0.7.5
+  origversion: null
+  status: outdated
+  summary: Generate HTTP load and plot the results in real-time
+  maintainers:
+    - farcaller@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: ali
+  visiblename: ali
+  version: 0.8.0
+  origversion: null
+  status: newest
+  summary: Generate HTTP load and plot the results in real-time
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: ali
+  visiblename: ali
+  version: 0.8.0
+  origversion: null
+  status: newest
+  summary: Generate HTTP load and plot the results in real-time
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT

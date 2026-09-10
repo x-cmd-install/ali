@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 3215657,
       "digest": "sha256:6bd43212f032528dd0a6c6db00035432051d1566d7af8ef0ef1b91a0b041705c",
-      "download_count": 447,
+      "download_count": 448,
       "created_at": "2026-01-19T06:45:28Z",
       "updated_at": "2026-01-19T06:45:28Z",
       "browser_download_url": "https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_amd64.tar.gz"
