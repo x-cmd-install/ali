@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.8.0"
   latestRelease: "v0.8.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:16:59Z
+  collectedAt: 2026-09-10T23:26:03Z
 timeline:
   created: 2020-09-12
   lastCommit: 2026-01-19
@@ -85,7 +85,7 @@ total:
   commit: 280
 ---
 path: /home/runner/.x-repo/github.com/nakabonne/ali
-collectedAt: 2026-09-10T20:17:02Z
+collectedAt: 2026-09-10T23:26:05Z
 loc:
   Go:
     code: 3513
