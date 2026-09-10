@@ -4,7 +4,7 @@
 
 Generate HTTP load and plot the results in real-time
 
-![ali](https://repo.x-cmd.io/ali.svg)
+![ali](https://repo.x-cmd.io/ali.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,48 @@ x install ali
 - **最新版本**: `v0.8.0` (2026-01-19)
 - **最近提交**: 2026-01-19
 - **Release 含资产**: 37 个
-- **发布时间**: 2026-01-19T06:28:58Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [ali_0.8.0_darwin_amd64.tar.gz](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_darwin_amd64.tar.gz) | 3.1 MiB | `native/darwin/x64` |
+| [ali_0.8.0_darwin_arm64.tar.gz](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_darwin_arm64.tar.gz) | 3.0 MiB | `native/darwin/arm64` |
+| [ali_0.8.0_freebsd_32-bit.tar.gz](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_freebsd_32-bit.tar.gz) | 3.0 MiB | `native/unknown` |
+| [ali_0.8.0_freebsd_amd64.tar.gz](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_freebsd_amd64.tar.gz) | 3.1 MiB | `native/linux/x64` |
+| [ali_0.8.0_freebsd_arm64.tar.gz](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_freebsd_arm64.tar.gz) | 2.8 MiB | `native/linux/arm64` |
+| [ali_0.8.0_freebsd_armv6.tar.gz](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_freebsd_armv6.tar.gz) | 3.0 MiB | `native/linux/arm` |
+| [ali_0.8.0_freebsd_armv7.tar.gz](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_freebsd_armv7.tar.gz) | 3.0 MiB | `native/linux/arm` |
+| [ali_0.8.0_linux_32-bit.tar.gz](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_32-bit.tar.gz) | 3.0 MiB | `native/unknown` |
+| [ali_0.8.0_linux_386.deb](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_386.deb) | 3.0 MiB | `other` |
+| [ali_0.8.0_linux_386.rpm](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_386.rpm) | 3.1 MiB | `other` |
+| [ali_0.8.0_linux_amd64.deb](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_amd64.deb) | 3.1 MiB | `native/linux/x64` |
+| [ali_0.8.0_linux_amd64.rpm](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_amd64.rpm) | 3.2 MiB | `native/linux/x64` |
+| [ali_0.8.0_linux_amd64.tar.gz](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_amd64.tar.gz) | 3.1 MiB | `native/linux/x64` |
+| [ali_0.8.0_linux_arm64.deb](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_arm64.deb) | 2.8 MiB | `native/linux/arm64` |
+| [ali_0.8.0_linux_arm64.rpm](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_arm64.rpm) | 2.9 MiB | `native/linux/arm64` |
+| [ali_0.8.0_linux_arm64.tar.gz](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_arm64.tar.gz) | 2.8 MiB | `native/linux/arm64` |
+| [ali_0.8.0_linux_armv6.deb](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_armv6.deb) | 3.0 MiB | `native/linux/arm` |
+| [ali_0.8.0_linux_armv6.rpm](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_armv6.rpm) | 3.0 MiB | `native/linux/arm` |
+| [ali_0.8.0_linux_armv6.tar.gz](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_armv6.tar.gz) | 3.0 MiB | `native/linux/arm` |
+| [ali_0.8.0_linux_armv7.deb](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_armv7.deb) | 3.0 MiB | `native/linux/arm` |
+| [ali_0.8.0_linux_armv7.rpm](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_armv7.rpm) | 3.1 MiB | `native/linux/arm` |
+| [ali_0.8.0_linux_armv7.tar.gz](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_armv7.tar.gz) | 3.0 MiB | `native/linux/arm` |
+| [ali_0.8.0_linux_mips64.tar.gz](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_mips64.tar.gz) | 2.7 MiB | `native/unknown` |
+| [ali_0.8.0_linux_mips64le.tar.gz](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_mips64le.tar.gz) | 2.7 MiB | `native/unknown` |
+| [ali_0.8.0_linux_mips64le_hardfloat.deb](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_mips64le_hardfloat.deb) | 2.7 MiB | `other` |
+| [ali_0.8.0_linux_mips64le_hardfloat.rpm](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_mips64le_hardfloat.rpm) | 2.8 MiB | `other` |
+| [ali_0.8.0_linux_mips64_hardfloat.deb](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_mips64_hardfloat.deb) | 2.7 MiB | `other` |
+| [ali_0.8.0_linux_mips64_hardfloat.rpm](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_mips64_hardfloat.rpm) | 2.8 MiB | `other` |
+| [ali_0.8.0_linux_ppc64le.deb](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_ppc64le.deb) | 2.8 MiB | `other` |
+| [ali_0.8.0_linux_ppc64le.rpm](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_ppc64le.rpm) | 2.9 MiB | `other` |
+| [ali_0.8.0_linux_ppc64le.tar.gz](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_ppc64le.tar.gz) | 2.8 MiB | `native/unknown` |
+| [ali_0.8.0_linux_s390x.deb](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_s390x.deb) | 3.0 MiB | `runtime/deb/s390x` |
+| [ali_0.8.0_linux_s390x.rpm](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_s390x.rpm) | 3.1 MiB | `other` |
+| [ali_0.8.0_linux_s390x.tar.gz](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_s390x.tar.gz) | 3.0 MiB | `native/unknown` |
+| [ali_0.8.0_windows_32-bit.tar.gz](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_windows_32-bit.tar.gz) | 3.1 MiB | `native/win/x64` |
+| [ali_0.8.0_windows_amd64.tar.gz](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_windows_amd64.tar.gz) | 3.2 MiB | `native/win/x64` |
+| [checksums.txt](https://github.com/nakabonne/ali/releases/download/v0.8.0/checksums.txt) | 3.4 KiB | `other` |
 
 ## 流行度
 
@@ -71,4 +112,4 @@ ali 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T03:08:36Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T15:52:47Z._

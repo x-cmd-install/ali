@@ -22,7 +22,48 @@ x install ali
 - **Latest**: `v0.8.0` (2026-01-19)
 - **Last commit**: 2026-01-19
 - **Assets in release**: 37
-- **Published**: 2026-01-19T06:28:58Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [ali_0.8.0_darwin_amd64.tar.gz](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_darwin_amd64.tar.gz) | 3.1 MiB | `native/darwin/x64` |
+| [ali_0.8.0_darwin_arm64.tar.gz](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_darwin_arm64.tar.gz) | 3.0 MiB | `native/darwin/arm64` |
+| [ali_0.8.0_freebsd_32-bit.tar.gz](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_freebsd_32-bit.tar.gz) | 3.0 MiB | `native/unknown` |
+| [ali_0.8.0_freebsd_amd64.tar.gz](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_freebsd_amd64.tar.gz) | 3.1 MiB | `native/linux/x64` |
+| [ali_0.8.0_freebsd_arm64.tar.gz](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_freebsd_arm64.tar.gz) | 2.8 MiB | `native/linux/arm64` |
+| [ali_0.8.0_freebsd_armv6.tar.gz](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_freebsd_armv6.tar.gz) | 3.0 MiB | `native/linux/arm` |
+| [ali_0.8.0_freebsd_armv7.tar.gz](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_freebsd_armv7.tar.gz) | 3.0 MiB | `native/linux/arm` |
+| [ali_0.8.0_linux_32-bit.tar.gz](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_32-bit.tar.gz) | 3.0 MiB | `native/unknown` |
+| [ali_0.8.0_linux_386.deb](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_386.deb) | 3.0 MiB | `other` |
+| [ali_0.8.0_linux_386.rpm](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_386.rpm) | 3.1 MiB | `other` |
+| [ali_0.8.0_linux_amd64.deb](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_amd64.deb) | 3.1 MiB | `native/linux/x64` |
+| [ali_0.8.0_linux_amd64.rpm](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_amd64.rpm) | 3.2 MiB | `native/linux/x64` |
+| [ali_0.8.0_linux_amd64.tar.gz](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_amd64.tar.gz) | 3.1 MiB | `native/linux/x64` |
+| [ali_0.8.0_linux_arm64.deb](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_arm64.deb) | 2.8 MiB | `native/linux/arm64` |
+| [ali_0.8.0_linux_arm64.rpm](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_arm64.rpm) | 2.9 MiB | `native/linux/arm64` |
+| [ali_0.8.0_linux_arm64.tar.gz](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_arm64.tar.gz) | 2.8 MiB | `native/linux/arm64` |
+| [ali_0.8.0_linux_armv6.deb](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_armv6.deb) | 3.0 MiB | `native/linux/arm` |
+| [ali_0.8.0_linux_armv6.rpm](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_armv6.rpm) | 3.0 MiB | `native/linux/arm` |
+| [ali_0.8.0_linux_armv6.tar.gz](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_armv6.tar.gz) | 3.0 MiB | `native/linux/arm` |
+| [ali_0.8.0_linux_armv7.deb](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_armv7.deb) | 3.0 MiB | `native/linux/arm` |
+| [ali_0.8.0_linux_armv7.rpm](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_armv7.rpm) | 3.1 MiB | `native/linux/arm` |
+| [ali_0.8.0_linux_armv7.tar.gz](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_armv7.tar.gz) | 3.0 MiB | `native/linux/arm` |
+| [ali_0.8.0_linux_mips64.tar.gz](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_mips64.tar.gz) | 2.7 MiB | `native/unknown` |
+| [ali_0.8.0_linux_mips64le.tar.gz](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_mips64le.tar.gz) | 2.7 MiB | `native/unknown` |
+| [ali_0.8.0_linux_mips64le_hardfloat.deb](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_mips64le_hardfloat.deb) | 2.7 MiB | `other` |
+| [ali_0.8.0_linux_mips64le_hardfloat.rpm](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_mips64le_hardfloat.rpm) | 2.8 MiB | `other` |
+| [ali_0.8.0_linux_mips64_hardfloat.deb](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_mips64_hardfloat.deb) | 2.7 MiB | `other` |
+| [ali_0.8.0_linux_mips64_hardfloat.rpm](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_mips64_hardfloat.rpm) | 2.8 MiB | `other` |
+| [ali_0.8.0_linux_ppc64le.deb](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_ppc64le.deb) | 2.8 MiB | `other` |
+| [ali_0.8.0_linux_ppc64le.rpm](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_ppc64le.rpm) | 2.9 MiB | `other` |
+| [ali_0.8.0_linux_ppc64le.tar.gz](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_ppc64le.tar.gz) | 2.8 MiB | `native/unknown` |
+| [ali_0.8.0_linux_s390x.deb](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_s390x.deb) | 3.0 MiB | `runtime/deb/s390x` |
+| [ali_0.8.0_linux_s390x.rpm](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_s390x.rpm) | 3.1 MiB | `other` |
+| [ali_0.8.0_linux_s390x.tar.gz](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_s390x.tar.gz) | 3.0 MiB | `native/unknown` |
+| [ali_0.8.0_windows_32-bit.tar.gz](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_windows_32-bit.tar.gz) | 3.1 MiB | `native/win/x64` |
+| [ali_0.8.0_windows_amd64.tar.gz](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_windows_amd64.tar.gz) | 3.2 MiB | `native/win/x64` |
+| [checksums.txt](https://github.com/nakabonne/ali/releases/download/v0.8.0/checksums.txt) | 3.4 KiB | `other` |
 
 ## Popularity
 
@@ -67,8 +108,8 @@ Lowest-scoring checks:
 Install metadata for ali lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `ali` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/ali.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/ali.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T03:08:36Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T15:52:47Z._
