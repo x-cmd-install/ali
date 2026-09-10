@@ -12,6 +12,28 @@ Generate HTTP load and plot the results in real-time
 x install ali
 ```
 
+## Code insight
+
+Total: **3,588** lines of code across **28** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 3,513 | 385 | 424 | 23 |
+| Json | 44 | 0 | 0 | 2 |
+| Yaml | 19 | 0 | 1 | 1 |
+| Makefile | 9 | 0 | 3 | 1 |
+| Dockerfile | 3 | 0 | 1 | 1 |
+
+## OpenSSF Scorecard
+
+Overall score: **3.2 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (3/10) — Found 7/23 approved changesets -- score normalized to 3
+- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+
 ## Source
 
 - **Upstream**: <https://github.com/nakabonne/ali>
@@ -22,6 +44,25 @@ x install ali
 - **Latest**: `v0.8.0` (2026-01-19)
 - **Last commit**: 2026-01-19
 - **Assets in release**: 37
+
+## Popularity
+
+- **Stars**: 3,938 · **Forks**: 151 · **Open issues**: 68 · **Contributors**: 16
+
+## Totals (cumulative)
+
+- **Releases**: 27 · **Merged PRs**: 70 · **Open PRs**: 1 · **Closed issues**: 44 · **Open issues**: 24 · **Commits**: 280
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-15 | 1 | 4 | 0 | 0 | 0 | 6 |
+| last720d | 2024-09-20 | 1 | 4 | 0 | 0 | 0 | 6 |
 
 ## Release assets
 
@@ -65,43 +106,16 @@ x install ali
 | [ali_0.8.0_windows_amd64.tar.gz](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_windows_amd64.tar.gz) | 3.2 MiB | `native/win/x64` |
 | [checksums.txt](https://github.com/nakabonne/ali/releases/download/v0.8.0/checksums.txt) | 3.4 KiB | `other` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 3,938 · **Forks**: 151 · **Open issues**: 68 · **Contributors**: 16
+Reported by **29** distros on [repology.org](https://repology.org/project/ali). **14** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 27 · **Merged PRs**: 70 · **Open PRs**: 1 · **Closed issues**: 44 · **Open issues**: 24 · **Commits**: 280
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 1 | 4 | 0 | 0 | 0 | 6 |
-
-## Code size
-
-Total: **3,588** lines of code across **28** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 3,513 | 385 | 424 | 23 |
-| Json | 44 | 0 | 0 | 2 |
-| Yaml | 19 | 0 | 1 | 1 |
-| Makefile | 9 | 0 | 3 | 1 |
-| Dockerfile | 3 | 0 | 1 | 1 |
-
-## OpenSSF Scorecard
-
-Overall score: **3.2 / 10**
-
-Lowest-scoring checks:
-
-- **Code-Review** (3/10) — Found 7/23 approved changesets -- score normalized to 3
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `0.8.0` | ✅ latest |
+| Homebrew | `0.8.0` | ✅ latest |
+| Nix unstable | `0.8.0` | ✅ latest |
+| Alpine edge | `0.8.0` | ✅ latest |
 
 ## Improve this data
 
@@ -112,4 +126,4 @@ Install metadata for ali lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T15:52:47Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:17:09Z._
