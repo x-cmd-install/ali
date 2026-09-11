@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 3215657,
       "digest": "sha256:6bd43212f032528dd0a6c6db00035432051d1566d7af8ef0ef1b91a0b041705c",
-      "download_count": 450,
+      "download_count": 452,
       "created_at": "2026-01-19T06:45:28Z",
       "updated_at": "2026-01-19T06:45:28Z",
       "browser_download_url": "https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_amd64.tar.gz"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 2969831,
       "digest": "sha256:43d7ae5d0c8861c3176ff0055cc6927ed01ad88bfe2a7551bdbf24addfdaa511",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-01-19T06:45:29Z",
       "updated_at": "2026-01-19T06:45:30Z",
       "browser_download_url": "https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_linux_mips64_hardfloat.rpm"
@@ -1291,7 +1291,7 @@
       "state": "uploaded",
       "size": 3255031,
       "digest": "sha256:f427f2bd9ee462a6dec1d5177062c69d45a737fe47ce807db8878d1f808cea6a",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-01-19T06:45:26Z",
       "updated_at": "2026-01-19T06:45:26Z",
       "browser_download_url": "https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_windows_32-bit.tar.gz"
