@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-27 | 1 | 4 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-01 | 1 | 4 | 0 | 0 | 0 | 6 |
+| 30d | 2026-09-23 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-28 | 1 | 4 | 0 | 0 | 0 | 6 |
+| last720d | 2024-11-02 | 1 | 4 | 0 | 0 | 0 | 6 |
 
 ## Release assets
 
@@ -106,6 +106,17 @@ Lowest-scoring checks:
 | [ali_0.8.0_windows_amd64.tar.gz](https://github.com/nakabonne/ali/releases/download/v0.8.0/ali_0.8.0_windows_amd64.tar.gz) | 3.2 MiB | `native/win/x64` |
 | [checksums.txt](https://github.com/nakabonne/ali/releases/download/v0.8.0/checksums.txt) | 3.4 KiB | `other` |
 
+## Distribution status
+
+Reported by **29** distros on [repology.org](https://repology.org/project/ali). **14** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `0.8.0` | ✅ latest |
+| Homebrew | `0.8.0` | ✅ latest |
+| Nix unstable | `0.8.0` | ✅ latest |
+| Alpine edge | `0.8.0` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for ali lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `ali` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -115,4 +126,4 @@ Install metadata for ali lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T03:21:27Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T03:24:56Z._
