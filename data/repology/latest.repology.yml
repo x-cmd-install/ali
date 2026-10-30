@@ -1,3 +1,47 @@
+- repo: nix_stable_25_05
+  srcname: ali
+  visiblename: ali
+  version: 0.7.5
+  origversion: null
+  status: outdated
+  summary: Generate HTTP load and plot the results in real-time
+  maintainers:
+    - farcaller@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: ali
+  visiblename: ali
+  version: 0.7.5
+  origversion: null
+  status: outdated
+  summary: Generate HTTP load and plot the results in real-time
+  maintainers:
+    - farcaller@gmail.com
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: ali
+  binname: ali
+  visiblename: ali
+  version: 0.8.0
+  origversion: 0.8.0-1
+  status: newest
+  summary: Generate HTTP load and plot the results in real-time
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: ali
+  binname: ali
+  visiblename: ali
+  version: 0.8.0
+  origversion: 0.8.0-1
+  status: newest
+  summary: Generate HTTP load and plot the results in real-time
+  licenses:
+    - MIT
 - repo: nix_stable_24_05
   srcname: ali
   visiblename: ali
@@ -158,7 +202,7 @@
   binname: ali
   visiblename: ali
   version: 0.8.0
-  origversion: 0.8.0-r5
+  origversion: 0.8.0-r6
   status: newest
   summary: Generate HTTP load and plot the results in real-time
   maintainers:
@@ -171,7 +215,7 @@
   binname: ali-doc
   visiblename: ali-doc
   version: 0.8.0
-  origversion: 0.8.0-r5
+  origversion: 0.8.0-r6
   status: newest
   summary: Generate HTTP load and plot the results in real-time (documentation)
   maintainers:
@@ -250,50 +294,6 @@
   origversion: 0.8.0-1
   status: newest
   summary: Generate HTTP load and plot the results in real-time
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: ali
-  binname: ali
-  visiblename: ali
-  version: 0.8.0
-  origversion: 0.8.0-1
-  status: newest
-  summary: Generate HTTP load and plot the results in real-time
-  licenses:
-    - MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: ali
-  binname: ali
-  visiblename: ali
-  version: 0.8.0
-  origversion: 0.8.0-1
-  status: newest
-  summary: Generate HTTP load and plot the results in real-time
-  licenses:
-    - MIT
-- repo: nix_stable_24_11
-  srcname: ali
-  visiblename: ali
-  version: 0.7.5
-  origversion: null
-  status: outdated
-  summary: Generate HTTP load and plot the results in real-time
-  maintainers:
-    - farcaller@gmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_25_05
-  srcname: ali
-  visiblename: ali
-  version: 0.7.5
-  origversion: null
-  status: outdated
-  summary: Generate HTTP load and plot the results in real-time
-  maintainers:
-    - farcaller@gmail.com
   licenses:
     - MIT
 - repo: nix_stable_25_11
