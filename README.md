@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,937 · **Forks**: 152 · **Open issues**: 68 · **Contributors**: 16
+- **Stars**: 3,938 · **Forks**: 152 · **Open issues**: 68 · **Contributors**: 16
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-03 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-04 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-06 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-07 | 1 | 4 | 0 | 0 | 0 | 6 |
-| last720d | 2024-11-12 | 1 | 4 | 0 | 0 | 0 | 6 |
+| 30d | 2026-10-04 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-04 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-05 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-07 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-08 | 1 | 4 | 0 | 0 | 0 | 6 |
+| last720d | 2024-11-13 | 1 | 4 | 0 | 0 | 0 | 6 |
 
 ## Release assets
 
@@ -108,7 +108,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **29** distros on [repology.org](https://repology.org/project/ali). **14** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
+Reported by **29** distros on [repology.org](https://repology.org/project/ali). **12** are ✅ on the latest upstream release, **15** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -126,4 +126,4 @@ Install metadata for ali lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T04:28:36Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T05:23:37Z._
