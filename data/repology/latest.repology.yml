@@ -235,9 +235,9 @@
   srcname: ali
   binname: ali
   visiblename: ali
-  version: 0.7.5
-  origversion: 0.7.5-2
-  status: outdated
+  version: 0.8.0
+  origversion: 0.8.0-1
+  status: newest
   summary: Generate HTTP load and plot the results in real-time
   licenses:
     - MIT
@@ -246,9 +246,9 @@
   srcname: ali
   binname: ali
   visiblename: ali
-  version: 0.7.5
-  origversion: 0.7.5-2
-  status: outdated
+  version: 0.8.0
+  origversion: 0.8.0-1
+  status: newest
   summary: Generate HTTP load and plot the results in real-time
   licenses:
     - MIT
